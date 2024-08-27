@@ -1,5 +1,9 @@
-class Target
-{
+#include "Position-Perfect\src\include\Target.hpp"
+#include "Position-Perfect\src\include\Target.hpp"
+
+//Source files contain the implementation
+
+
     /* Properties
     - length: int
     - value: int
@@ -13,4 +17,5 @@ class Target
     - setValue
 
     */
-};
+
+

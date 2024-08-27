@@ -1,3 +1,7 @@
+#include "../include/resources.hpp"
+
+//Source files contain the implementation
+
 class GamePlay
 {
 
